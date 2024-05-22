@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 <p align="center">
 	<img alt="logo" src="https://oscimg.oschina.net/oscnet/up-b99b286755aef70355a7084753f89cdb7c9.png">
@@ -76,9 +75,3 @@ com.ruoyi
 
 
 - admin/admin123  
-
-=======
-
-# SchoolCloud
-
->>>>>>> 1d7f013f4cfe88305186440ecf9ed35be802cb9d
